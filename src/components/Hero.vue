@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import {achievements} from '../assets/data/data.js'
   import Header from '../components/Header.vue'
 </script>

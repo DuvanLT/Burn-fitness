@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import {trainers} from '../assets/data/data.js'
 </script>
 <template>

@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
   import Hero from './components/Hero.vue'
   import Trainers from './components/Trainers.vue'
   import Calculator from './components/Calculator.vue';
