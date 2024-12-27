@@ -46,7 +46,7 @@ import {achievements} from '../assets/data/data.js'
 }
 
 .achievements{
-    bottom: 10px;
+    bottom: 0;
     display: flex;
     flex-direction: column;
     list-style: none;
@@ -77,7 +77,8 @@ import {achievements} from '../assets/data/data.js'
        margin-bottom: 0;
     }
     p{
-    font-size: 14px;
+        margin-top: 4px;
+    font-size: 16px;
     }
 }
     .hero_container{
@@ -118,6 +119,12 @@ import {achievements} from '../assets/data/data.js'
         .achievement-many{
             font-size: 30px;
         }
+        .hero_texts{
+            h1{
+       font-size: 28px;
+    }
+        }
+   
 
     }
 
@@ -126,12 +133,18 @@ import {achievements} from '../assets/data/data.js'
         font-size: 55px;   
         }
 
+        .hero_texts p{
+            font-size: 20px;
+            margin-top: 10px;
+        }
+
         .model{
             max-width: 380px;
         }
         .achievements{
             flex-direction: row;
             gap: 40px;
+            bottom: 10px;
         }
         .achievement-name{
     font-size: 24px;

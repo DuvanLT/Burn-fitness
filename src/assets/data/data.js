@@ -5,17 +5,12 @@ export const achievements = [
         many: "+10k",
     },
     {
-        id: 2,
-        name: "Years up",
-        many: "+6",
-    },
-    {
-        id:3,
+        id:2,
         name:"Trainers",
         many:"+50",
     },
     {
-        id:4,
+        id:3,
         name:"locations",
         many:"14",
     }
