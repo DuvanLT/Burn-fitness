@@ -2,7 +2,7 @@
   import Hero from './components/Hero.vue'
   import Trainers from './components/Trainers.vue'
   import Calculator from './components/Calculator.vue';
-import Memeberships from './components/Memeberships.vue';
+import Memberships from './components/Memberships.vue';
 import Footer from './components/Footer.vue'
   
 </script>
@@ -11,7 +11,7 @@ import Footer from './components/Footer.vue'
     <Hero/>
     <Trainers/>
     <Calculator/>
-    <Memeberships/>
+    <Memberships/>
     <Footer />
 </template>
 

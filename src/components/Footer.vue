@@ -32,6 +32,7 @@
         background: #000;
         padding: 0 20px;
         color:#fff;
+        font-size: 14px;
     }
     ul{
         list-style: none;
@@ -56,6 +57,7 @@
             gap: 20px;
             height: auto;
             padding-bottom: 20px;
+            font-size: 12px;
         }
         
     }

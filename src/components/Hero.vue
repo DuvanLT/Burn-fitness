@@ -60,12 +60,12 @@ import {achievements} from '../assets/data/data.js'
 .achievement-name{
     color: #cf5600;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 600;
 }
 
 .achievement-many{
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 800;
 }
 
@@ -112,16 +112,16 @@ import {achievements} from '../assets/data/data.js'
             max-width: 250px;
         }
         .achievement-name{
-    font-size: 16px;
+    font-size: 24px;
         }
 
         .achievement-many{
-            font-size: 24px;
+            font-size: 30px;
         }
 
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 956px) {
         .hero_texts h1{
         font-size: 55px;   
         }

@@ -13,6 +13,8 @@ const status = ref<string>('')
             status.value = 'Normal weight'
         }else if(imc.value >= 25 && imc.value < 29.9){
             status.value = 'Overweight'
+        }else{
+            status.value = 'Obesity'
         }
     }
 }

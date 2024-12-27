@@ -2,7 +2,7 @@
 </script>
 <template>
     <div class="memeberships_container" id="memberships">
-    <h3>MEMEBERSHIPS</h3>
+    <h3>MEMBERSHIPS</h3>
     <div class="pricing_container">
         <div class="pricing">
             <div class="card">

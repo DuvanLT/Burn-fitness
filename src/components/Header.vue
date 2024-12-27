@@ -19,7 +19,7 @@ function toggleNav() {
         <li @click="toggleNav"><a href="">START</a></li>
         <li @click=""toggleNav><a href="#trainers">TRAINERS</a></li>
         <li @click="toggleNav"><a href="#calculator">CALCULATOR</a></li>
-        <li @click="toggleNav"><a href="memberships">SUBSCRIBE</a></li>
+        <li @click="toggleNav"><a href="memberships">SUBSCRIBE</a></li> 
     </ul>
     </nav>
     <picture class="menu" @click="toggleNav">
