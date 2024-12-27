@@ -128,6 +128,12 @@ import {achievements} from '../assets/data/data.js'
 
     }
 
+    @media (max-height: 400px) {
+        .achievements{
+            flex-direction: row;
+        }
+    }
+
     @media (min-width: 956px) {
         .hero_texts h1{
         font-size: 55px;   
